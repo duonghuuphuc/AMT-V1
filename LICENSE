@@ -1,0 +1,21 @@
+# Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+This repository, including the **annotation results** and the **translation evaluation sheet**, is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format.
+- Adapt — remix, transform, and build upon the material.
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NonCommercial — You may not use the material for commercial purposes.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+---
+
+## Important Notice on Dataset
+The dataset described in the accompanying paper contains copyrighted materials and **is not included in this repository**.  
+Access to the dataset may be granted upon request for research purposes only.  
+See `DATASET_DISCLAIMER.md` for details.
+
